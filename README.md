@@ -28,7 +28,9 @@ The Maternal Health Risk Prediction Model is a powerful tool designed to predict
 - Required libraries: `pandas`, `scikit-learn`
 
 ### Installation Steps:  
+1) git clone https://github.com/Sahab00/Smart-Maternal-Risk-Predictor.git
+2) cd Smart-Maternal-Risk-Predictor
+3) jupyter notebook
 
-git clone https://github.com/Sahab00/AI-Model_Maternal_Health.git
-cd AI-Model_Maternal_Health
-python your_model_script.py
+# License 
+This project is licensed under the Apache License 2.0: - see the LICENSE file for details.
